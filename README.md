@@ -11,3 +11,8 @@ I push this code on Github to purpose a simple but complete example of batch scr
 
 Tested using x86 & x64 compiled version of Windows XP and Vista.
 Should be tested on Windows 7 and 10.
+
+## How to execute this script
+
+Using GUI : you should run `Pilebones's Cleaner.bat` using double click from the window panel of the directory of the project.
+Using CLI : you should press `WIN+R` then type `cmd.exe`, go to the directory of the project then exec `Pilebones's Cleaner.bat`.
